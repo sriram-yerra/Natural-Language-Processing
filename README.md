@@ -89,12 +89,12 @@ Modern usage | — | Rare | Limited | Limited |
 ---
 
 ### 🔗 Relationship
-NLP (Problem Domain)
-└── Sequence Models
-├── RNN
-│ ├── LSTM
-│ └── GRU
-└── Transformers (Attention-based)
+- **NLP (Problem Domain)**
+  - **Sequence Models**
+    - **RNN**
+      - LSTM
+      - GRU
+    - **Transformers (Attention-based)**
 
 ---
 
