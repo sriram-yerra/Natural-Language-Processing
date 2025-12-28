@@ -90,8 +90,7 @@ They do **not** provide:
 
 ```python
 from sklearn.ensemble import RandomForestClassifier
-```
-
 clf = RandomForestClassifier()
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
+```
