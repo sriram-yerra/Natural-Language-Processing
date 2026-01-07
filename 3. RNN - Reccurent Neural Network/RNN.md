@@ -1,5 +1,7 @@
 # Recurrent Neural Networks (RNN)
 
+https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
+
 ## What is RNN?
 
 A **Recurrent Neural Network (RNN)** is a deep learning model that is trained to process and convert a **sequential data input** into a **sequential data output**.
