@@ -1,6 +1,6 @@
 # Recurrent Neural Networks (RNN)
 
-https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
+<img width="873" height="356" alt="image" src="https://github.com/user-attachments/assets/2286bbba-3f00-4022-b1db-acd0c80b3ae5" />
 
 ## What is RNN?
 
