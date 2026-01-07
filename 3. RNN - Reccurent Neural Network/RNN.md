@@ -224,26 +224,3 @@ Transformers are deep learning models based on **self-attention** and **parallel
 - Better gradient flow
 
 This makes transformers highly scalable and ideal for modern NLP tasks.
-
----
-
-## How can AWS support your RNN requirements?
-
-AWS provides services to build, train, and deploy machine learning models efficiently.
-
-### AWS Services
-
-- **Amazon SageMaker**  
-  Fully managed service for training and deploying ML models
-
-- **Amazon Bedrock**  
-  Simplifies generative AI development with foundation models
-
-- **AWS Trainium**  
-  Custom ML accelerator for cost-effective deep learning training
-
----
-
-## Get Started
-
-Sign up for an AWS account to start building scalable AI and ML solutions using both traditional RNNs and modern transformer-based architectures.
